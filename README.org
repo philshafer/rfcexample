@@ -1,0 +1,7 @@
+
+* IETF Activity: Note Well
+
+This repo is associated with the IETF, which means you should read this:
+
+    https://www.ietf.org/about/note-well.html
+
