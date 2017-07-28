@@ -1,0 +1,5 @@
+[submodule "rfcdoc"]
+	path = rfcdoc
+	url = http://github.com/philshafer/rfcdoc
+	branch = master
+        ignore = dirty
